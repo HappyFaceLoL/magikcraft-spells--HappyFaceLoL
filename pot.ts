@@ -2,8 +2,8 @@ const magik = magikcraft.io
 
 function pot() {
     const ingredients = []
-    ingredients.push("lizard eyes")
-    ingredients.push("unicorn tears")
-    ingredients.push("dragon scales")
+    ingredients.push("lizardeyes")
+    ingredients.push("unicorntears")
+    ingredients.push("dragonscales")
     magik.caldarium(ingredients)
 }
